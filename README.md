@@ -1,5 +1,9 @@
 ![logo](https://github.com/Nazisra/Nazisra/blob/main/linkdin%20profile.png)
-<h1 align="center">Hey 👋, It's me Md Nazmul Islam Rahad</h1>
+</h1>
+</h1>
+<-- <h1 align="center">Hi ,🔗 I'm Nazmul Islam</h1> -->
+
+
 <h3 align="center">A passionate programmer && problem solver from Bangladesh 🔗</h3>
 <img align="right" alt="code"width="400"src="https://gifdb.com/images/thumbnail/animated-man-computer-coding-nae6mec378lsg1i3.webp"
 
