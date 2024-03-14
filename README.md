@@ -1,4 +1,4 @@
-![logo](https://github.com/Nazisra/Nazisra/blob/main/linkdin%20profile.png)
+![logo](https://github.com/Nazisra/Nazisra/blob/main/git%20giff.gif)
 </h1>
 </h1>
 <-- <h1 align="center">Hi ,🔗 I'm Nazmul Islam</h1> -->
