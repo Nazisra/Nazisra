@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=100&height=100&duration=5&lines=Hi;" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=It's+Nazmul+Rahad;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines="This is +Nazmul+Rahad;" />
   
 
 
@@ -14,11 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazisra&label=Profile%20views&color=0e75b6&style=flat" alt="nazisra" /> </p>
 
-- 🌱 I’m currently learning **Algorithm,cp and dsa problem**
+- 🌱 I’m currently learning **Algorithms,node js,cpp,cp and dsa problem**
 
 - 📫 How to reach me **ahmedrahad00@gmail.com**
 
-- ⚡ Fun fact **I am a footballer and I do siuuuu**
+- ⚡ extra fact **I have read more than 100+ books **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
