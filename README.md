@@ -4,9 +4,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=100&center=true&vCenter=true&width=100&height=100&duration=5&lines=Hi;" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines="This+is+Nazmul+Rahad;" />
-  
-
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+is+Nazmul+Rahad;" alt="This is Nazmul Rahad">
+</h1>
 
 
 <h3 align="center">A passionate programmer && problem solver from Bangladesh 🔗</h3>
