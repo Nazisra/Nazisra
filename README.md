@@ -46,7 +46,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nazisra&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nazisra&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nazisra&icon=6&color=6)](https://visitcount.itsvg.in)
